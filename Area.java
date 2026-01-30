@@ -1,4 +1,4 @@
-public class area {
+public class Area {
 public static void main(String[] args) {
 int side=5;
 int area=side*side;
